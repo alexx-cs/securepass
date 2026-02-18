@@ -1,4 +1,4 @@
-# 🔐 SecurePass Pro
+# SecurePass Pro
 
 O SecurePass Pro é um gerador de senhas com interface gráfica desenvolvido em Python utilizando CustomTkinter.
 
